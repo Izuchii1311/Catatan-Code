@@ -1,0 +1,22 @@
+Target Bulan November
+1. Hari ini selesaikan Landing Page Latihan
+	Note: Success
+		- Pemahaman Bisa ditingkatkan Lagi
+		- Kendala Responsivable Iphone SE / Device Mobile
+
+2. Latihan Landing Page sendiri dengan menggunakan component
+	Note: Success (Hanya Landing Page Kasar)
+		- Pemahaman Bisa ditingkatkan Lagi
+		- Dark Mode
+		- Animation / Paralax
+		- Smoth Scroll
+		- Navbar Fixed on Scroll
+		- Js Not Working on Github / Deployment
+
+3. Pelajari kembali CRUD Laravel
+	
+
+4. Buat Restful API
+5. Buat Dokumentasi Swagger API
+6. Tampilkan API dengan membuat halaman untuk menampilkan hasil API, gunakan tailwind untuk tampilan.
+7. Pelajari Kembali Laravel UI.
