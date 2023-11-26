@@ -20,3 +20,13 @@ Target Bulan November
 5. Buat Dokumentasi Swagger API
 6. Tampilkan API dengan membuat halaman untuk menampilkan hasil API, gunakan tailwind untuk tampilan.
 7. Pelajari Kembali Laravel UI.
+
+
+Target Bulan Desember
+1. Pelajari JQuery
+2. Pelajari NodeJS
+3. Pelajari TypeScript
+4. Pelajari Webpack
+5. Buat Project Front End
+6. Buat Project Backend
+7. Finall
