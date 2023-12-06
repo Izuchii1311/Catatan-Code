@@ -14,7 +14,8 @@ Target Bulan November
 		- Js Not Working on Github / Deployment
 
 3. Pelajari kembali CRUD Laravel
-	
+	Note : Success
+		- Belum menerapkan multi role & Table pivot
 
 4. Buat Restful API
 5. Buat Dokumentasi Swagger API
