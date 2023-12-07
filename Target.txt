@@ -18,6 +18,7 @@ Target Bulan November
 		- Belum menerapkan multi role & Table pivot
 
 4. Buat Restful API
+	Note : Progress
 5. Buat Dokumentasi Swagger API
 6. Tampilkan API dengan membuat halaman untuk menampilkan hasil API, gunakan tailwind untuk tampilan.
 7. Pelajari Kembali Laravel UI.
