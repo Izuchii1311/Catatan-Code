@@ -18,17 +18,28 @@ Target Bulan November
 		- Belum menerapkan multi role & Table pivot
 
 4. Buat Restful API
-	Note : Progress
+	Note : Success
 5. Buat Dokumentasi Swagger API
 6. Tampilkan API dengan membuat halaman untuk menampilkan hasil API, gunakan tailwind untuk tampilan.
 7. Pelajari Kembali Laravel UI.
+	Note : Success
+		- Belum belajar memodifikasi Laravel UI
 
 
 Target Bulan Desember
-1. Pelajari JQuery
-2. Pelajari NodeJS
-3. Pelajari TypeScript
+1. Pelajari Javascript Lanjutan
+2. Pelajari JQuery
+3. Pelajari NodeJS
 4. Pelajari Webpack
 5. Buat Project Front End
 6. Buat Project Backend
 7. Finall
+
+
+Manipulasi Array
+Manipulasi Element
+Manipulasi Node
+Event
+Dom Traversal Method
+Function & Object.create()
+Prototype
