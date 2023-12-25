@@ -34,12 +34,3 @@ Target Bulan Desember
 5. Buat Project Front End
 6. Buat Project Backend
 7. Finall
-
-
-Manipulasi Array
-Manipulasi Element
-Manipulasi Node
-Event
-Dom Traversal Method
-Function & Object.create()
-Prototype
