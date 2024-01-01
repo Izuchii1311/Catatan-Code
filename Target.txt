@@ -27,10 +27,10 @@ Target Bulan November
 
 
 Target Bulan Desember
-1. Pelajari Javascript Lanjutan
-2. Pelajari JQuery
-3. Pelajari NodeJS
-4. Pelajari Webpack
-5. Buat Project Front End
-6. Buat Project Backend
-7. Finall
+1. Pelajari Javascript Lanjutan		(Miss)
+2. Pelajari JQuery			(Miss)
+3. Pelajari NodeJS			(Miss)
+4. Pelajari Webpack			(Miss)
+5. Buat Project Front End		(Miss)
+6. Buat Project Backend			(Miss)
+7. Finall				(Progress)
